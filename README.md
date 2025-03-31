@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🧑‍🎓 I'm a currently a postgraduate student in UCAS
 - 😄 My hobbies: 🎬 Movie, 🎮 Game, 💻 Code, ➕ Math, ⛰️ Travel, ☯️ 算命
 - 🔭 I’m currently working on machine learning and image generation fields.
-- 🔗 My website: ![cuiem](https://cuiem.github.io)
+- 🔗 My website: [cuiem](https://cuiem.github.io/)
 
 ### 🛠 &nbsp;Tech Stack
 

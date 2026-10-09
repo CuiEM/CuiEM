@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 📮 You can email me: dongshancui73@gmail.com
-- 🧑‍🎓 I'm a currently a postgraduate student in UCAS
 - 😄 My hobbies: 🎬 Movie, 🎮 Game, 💻 Code, ➕ Math, ⛰️ Travel, ☯️ 算命
-- 🔭 I’m currently working on machine learning and image generation fields.
+- 🔭 I’m currently working on AIGC and Quant.
 - 🔗 My website: [cuiem](https://cuiem.github.io/)
 
 ### 🛠 &nbsp;Tech Stack
